@@ -1,45 +1,26 @@
 <br><br>
 
-<div align=center>
-  <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4bc2119e-95a4-44b8-8114-c0494fa9a62f%2Fmoodmood.png?table=block&id=95994160-02f1-40d9-9e96-2d4f0c263dfb&spaceId=530d1033-cf9f-41a2-b140-62d3e90887dd&width=1150&userId=693cbbb9-ee2c-45b7-9b30-77cc2771b07c&cache=v2" width=70% height=70%>
-
-
-  <br>
-
-  <h3>"행복은 두 배로, 슬픔은 반으로"</h3>
-
-  <br>
-
-</div>
-
-<div align=center>
-  
-![일기감정분석](https://user-images.githubusercontent.com/76522430/149671435-43ff01b2-dcf8-4531-8f09-1baf73eaeae0.gif)
-</div>
-
 ## 1. 소개🎯
 
-**Target**
+**주제**
   
-- 일기를 통해 공감대를 형성하고 자신의 심리상태를 파악하고 싶은 모든 사람
-- 나도 내 마음이 어떤지 잘 모를 때가 있다.   
-- 나의 일기를 다른 사람들과 공유하고 위로 받고 싶다.
-  
-**Problem**
-
-- 생각보다 많은 사람들이 자신의 감정에 소홀하다.
-- 무의식적인 불안으로 인한 스트레스 유발	
-- 불확실함에 의한 혼란스러움 지속   
+- 빅데이터 분석 및 데이터 파이프라인 프레임워크 구축
  
-**Solution**
+**문제 정의**
 
-- 일기에 담긴 감정을 AI가 감정분석을 해주어 자신의 심리 상태를 파악하고, 일상의 탄력적 회복에 도움을 준다.
+- 금융, 유통군들에서 빅데이터는 필수불가결한 솔루션
+- 빅데이터 구축 시 마다 분석/설계/인력 등 많은 견적이 요소가 포함되어 금액 부담이 발생   
+ 
+**목표**
+
+- MLOps 구축하여 파이프라이닝되는 과정까지를 표준화
+- 공통된 Middleware 프레임워크를 구축하기 위한 핵심 요소를 구현
 
 <br>
 
-## 2. 구조도🖼
+## 2. S/W architecture🖼
 
-![image](https://user-images.githubusercontent.com/76522430/149669525-065f24b7-f06f-47be-bec5-bb60c8c19719.png)
+![image](https://user-images.githubusercontent.com/76522430/198015775-2f8a6f8b-e599-443a-adb0-253748109819.png)
 
 <br>
 
@@ -177,9 +158,7 @@
 ### 4. 데이터
   
 1. Used DataSets
-   - [AI허브 : "한국어 감정 정보가 포함된 단발성 대화 데이터셋"](https://aihub.or.kr/opendata/keti-data/recognition-laguage/KETI-02-009)<br>
-   - [비속어데이터셋1](https://github.com/kocohub/korean-hate-speech)<br>
-   - [비속어데이터셋2](https://github.com/kocohub/korean-hate-speech)
+   - [뉴욕택시데이터셋](https://www.kaggle.com/competitions/new-york-city-taxi-fare-prediction/data)<br>
 
    <br>
 
@@ -187,17 +166,15 @@
 
 | Name   | Position   |
 | ------ | ---------- |
-| 남정윤 | AI, Reader |
-| 권순빈 | AI         | 
-| 박소현 | Frontend   | 
-| 신호연 | Backend    |
-| 문성권 | Backend    | 
+| 박정기 | MLflow, Airflow, Pyspark (Reader) |
+| 권순빈 | Hive, Datawarehouse         | 
+| 정인식 | Hadoop eco system | 
+| 최순재 | Pyspark, ETL, Visualization  |
 
 
 
 **본인이 기여한 부분**
-- 데이터 수집 및 가공
-- AI모델링 및 
+ 
 
 <br>
 
