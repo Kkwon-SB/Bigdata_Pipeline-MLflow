@@ -30,7 +30,7 @@
      <tr>
        <td><img src="https://user-images.githubusercontent.com/76522430/198021898-f24ba09d-ce68-4e24-90e3-270474005a16.png" width="80" height="80"></td>
        <td><img src="https://user-images.githubusercontent.com/76522430/198022023-a9a60c8e-99c3-4617-8f31-d43f36c7c6c9.png" width="80" height="80"></td>
-       <td><img src="https://user-images.githubusercontent.com/76522430/198018661-052a74da-8d0f-4fc8-b032-2ac647a58307.png" width="80" height="80"></td>
+       <td><img src="https://user-images.githubusercontent.com/76522430/198022648-a500b32d-1cb3-4d05-a6e5-f237bb688706.png" width="80" height="80"></td>
        <td><img src="https://user-images.githubusercontent.com/76522430/198021555-0a36d140-73da-48ea-aa96-171633a9fe4a.png" width="80" height="80"></td>
        <td><img src="https://user-images.githubusercontent.com/76522430/198021660-c3e1dd6f-8458-41f3-8dc1-e339a1bbeb55.png" width="80" height="80"></td>
        <td><img src="https://user-images.githubusercontent.com/76522430/198021734-df31223a-0b68-461d-98d4-045ae4c03f6b.png" width="80" height="80"></td>
