@@ -75,12 +75,4 @@ aws ec2 환경에서 빅데이터 분석 및 데이터 파이프라인 프레임
 | 정인식 | Hadoop eco system | 
 | 최순재 | Pyspark, ETL, Visualization  |
 
-
-
-**본인이 기여한 부분**
-- ㅁㅁ
-- ㅁㅁㅁㅁㅁㅁㅁㅁㅁ
-
-<br>
-
 <br> <br>
