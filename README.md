@@ -1,6 +1,3 @@
-<br>
-
-
 ## 1. 소개🎯
 
 **주제**
@@ -14,7 +11,7 @@
  
 **목표**
 
-- MLOps 구축하여 파이프라이닝되는 과정까지를 표준화
+- MLOps 구축하여 DataPipeline 과정을 표준화
 - 공통된 Middleware 프레임워크를 구축하기 위한 핵심 요소를 구현
 
 <br>
@@ -31,12 +28,12 @@
 **Environment**
    <table>
      <tr>
-       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="70" height="70"></td>
-       <td><img src="https://raw.githubusercontent.com/jsx-ir/logo/master/jsx.png" width="70" height="70"></td>
+       <td><img src="!https://user-images.githubusercontent.com/76522430/198021300-6a10f1cf-a565-4d34-8a59-60cfc6bb37a6.png" width="70" height="70"></td>
+       <td><img src="https://user-images.githubusercontent.com/76522430/198021426-75eab3a9-1030-443e-b7e1-bce02b6e16b9.png" width="70" height="70"></td>
        <td><img src="https://user-images.githubusercontent.com/76522430/198018661-052a74da-8d0f-4fc8-b032-2ac647a58307.png" width="70" height="70"></td>
-       <td><img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FBHr9w%2Fbtq7tsvu04R%2FdmBJ3ANlWgUxKZDM6yxXy0%2Fimg.png" width="95" height="70"></td>
-       <td><img src="https://media.vlpt.us/images/sgh002400/post/005be64e-a3e4-4535-9b97-72876a30ef97/MySQL.png" width="90" height="70"></td>
-       <td><img src="https://prev.github.io/attachs/full-stack-flask/logos/sqlalchemy.png" width="70" height="18"></td>
+       <td><img src="https://user-images.githubusercontent.com/76522430/198021555-0a36d140-73da-48ea-aa96-171633a9fe4a.png" width="95" height="70"></td>
+       <td><img src="https://user-images.githubusercontent.com/76522430/198021660-c3e1dd6f-8458-41f3-8dc1-e339a1bbeb55.png" width="90" height="70"></td>
+       <td><img src="https://user-images.githubusercontent.com/76522430/198021734-df31223a-0b68-461d-98d4-045ae4c03f6b.png" width="70" height="18"></td>
      </tr>
      <tr>
        <td align=center>Hadoop</td>
