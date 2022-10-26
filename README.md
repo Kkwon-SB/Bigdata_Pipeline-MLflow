@@ -27,9 +27,6 @@
 
 ## 3. 사용 기술🛠
 
-![image](https://user-images.githubusercontent.com/76522430/149669709-19e9dd6b-79b6-4ed5-aed6-f969f7c09c62.png)
-   <br>
-   <br>
 
 **Environment**
    <table>
@@ -40,7 +37,6 @@
        <td><img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FBHr9w%2Fbtq7tsvu04R%2FdmBJ3ANlWgUxKZDM6yxXy0%2Fimg.png" width="95" height="70"></td>
        <td><img src="https://media.vlpt.us/images/sgh002400/post/005be64e-a3e4-4535-9b97-72876a30ef97/MySQL.png" width="90" height="70"></td>
        <td><img src="https://prev.github.io/attachs/full-stack-flask/logos/sqlalchemy.png" width="70" height="18"></td>
-       <td><img src="https://media.vlpt.us/images/june0313/post/a2bbe956-5158-41d0-85f4-732de86c81b4/3630px-Nginx_logo.png" width="105" height="70"></td>
      </tr>
      <tr>
        <td align=center>Javascript</td>
@@ -49,13 +45,8 @@
        <td align=center>Flask</td>
        <td align=center>mySQL</td>
        <td align=center>SQL<br>Alchemy</td>
-       <td align=center>Ngnix</td>
      </tr>
    </table>
-
-
-   > ![ubuntu](https://img.shields.io/badge/ubuntu-20.04-orange), ![MySQL](https://img.shields.io/badge/-MySQL-%2300618a)
-    <br>
 
 <br><br>
 
