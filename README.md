@@ -18,11 +18,12 @@
 
 ## 2. S/W architecture🖼
 
-![image](https://user-images.githubusercontent.com/76522430/198015775-2f8a6f8b-e599-443a-adb0-253748109819.png)
+
 
 <br>
 
 ## 3. 사용 기술🛠
+![image](
 
 
 **Environment**
@@ -31,6 +32,7 @@
        <td><img src="https://user-images.githubusercontent.com/76522430/198021898-f24ba09d-ce68-4e24-90e3-270474005a16.png" width="80" height="80"></td>
        <td><img src="https://user-images.githubusercontent.com/76522430/198022023-a9a60c8e-99c3-4617-8f31-d43f36c7c6c9.png" width="80" height="80"></td>
        <td><img src="https://user-images.githubusercontent.com/76522430/198022648-a500b32d-1cb3-4d05-a6e5-f237bb688706.png" width="80" height="80"></td>
+       <td><img src="https://user-images.githubusercontent.com/76522430/198023323-77c9e225-df0c-4d70-8ed2-c469971c7885.png" width="80" height="80"></td>
        <td><img src="https://user-images.githubusercontent.com/76522430/198021555-0a36d140-73da-48ea-aa96-171633a9fe4a.png" width="80" height="80"></td>
        <td><img src="https://user-images.githubusercontent.com/76522430/198021660-c3e1dd6f-8458-41f3-8dc1-e339a1bbeb55.png" width="80" height="80"></td>
        <td><img src="https://user-images.githubusercontent.com/76522430/198021734-df31223a-0b68-461d-98d4-045ae4c03f6b.png" width="80" height="80"></td>
@@ -39,6 +41,7 @@
        <td align=center>Hadoop</td>
        <td align=center>Spark</td>
        <td align=center>Hive</td>
+        <td align=center>ZooKeeper</td>
        <td align=center>Airflow</td>
        <td align=center>AWS S3</td>
        <td align=center>MLflow</td>
@@ -59,8 +62,6 @@
        <td align=center>NVIDIA<br>CUDA</td>
      </tr>
    </table>
-
-   > ![colab](https://img.shields.io/badge/google-colab-orange), ![](https://img.shields.io/badge/-transformers-brightgreen)
 
 <br>
 
@@ -83,8 +84,8 @@
 
 
 **본인이 기여한 부분**
-- 데이터 수집 및 가공
-- AI모델링 및 
+- ㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁ
+- ㅁㅁㅁㅁㅁㅁㅁㅁㅁ
 
 <br>
 
