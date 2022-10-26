@@ -23,8 +23,6 @@
 <br>
 
 ## 3. 사용 기술🛠
-![image](
-
 
 **Environment**
    <table>
