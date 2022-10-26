@@ -1,10 +1,5 @@
 <br><br>
 
-<div align=center>
-  <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4bc2119e-95a4-44b8-8114-c0494fa9a62f%2Fmoodmood.png?table=block&id=95994160-02f1-40d9-9e96-2d4f0c263dfb&spaceId=530d1033-cf9f-41a2-b140-62d3e90887dd&width=1150&userId=693cbbb9-ee2c-45b7-9b30-77cc2771b07c&cache=v2" width=70% height=70%>
-
-
-  <br>
 
   <h3>"행복은 두 배로, 슬픔은 반으로"</h3>
 
