@@ -24,11 +24,6 @@
 
 <br>
 
-## 3. 사용 기술🛠
-
-![image](https://user-images.githubusercontent.com/76522430/149669709-19e9dd6b-79b6-4ed5-aed6-f969f7c09c62.png)
-   <br>
-   <br>
 
 **Environment**
    <table>
