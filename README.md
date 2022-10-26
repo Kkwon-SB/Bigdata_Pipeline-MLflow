@@ -7,10 +7,6 @@
 
 </div>
 
-<div align=center>
-  
-![일기감정분석](https://user-images.githubusercontent.com/76522430/149671435-43ff01b2-dcf8-4531-8f09-1baf73eaeae0.gif)
-</div>
 
 ## 1. 소개🎯
 
