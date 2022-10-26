@@ -1,11 +1,4 @@
-<br><br>
-
-
-  <h3>"행복은 두 배로, 슬픔은 반으로"</h3>
-
-  <br>
-
-</div>
+<br>
 
 
 ## 1. 소개🎯
@@ -148,20 +141,6 @@
 
    <br>
 
-**Skills**
-
-   <table>
-     <tr>
-       <td><img src="https://img2.quasarzone.com/editor/2021/07/02/f6381015430ce5a4e608b3865a1a96a0.png" width="55" height="55"></td>
-       <td><img src="https://blog.kakaocdn.net/dn/ICVj3/btqw8CnwRqm/UD96COJ6GKk4Y9aF4w46gK/img.png" width="80" height="77"></td>
-     </tr>
-     <tr>
-       <td align=center>KoBERT<br>2.0</td>
-       <td align=center>NVIDIA<br>CUDA</td>
-     </tr>
-   </table>
-
-   > ![colab](https://img.shields.io/badge/google-colab-orange), ![](https://img.shields.io/badge/-transformers-brightgreen)
 
 ### 4. 데이터
   
