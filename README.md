@@ -28,7 +28,7 @@
 **Environment**
    <table>
      <tr>
-       <td><img src="https://user-images.githubusercontent.com/76522430/198021300-6a10f1cf-a565-4d34-8a59-60cfc6bb37a6.png" width="70" height="70"></td>
+       <td><img src="https://user-images.githubusercontent.com/76522430/198021898-f24ba09d-ce68-4e24-90e3-270474005a16.png" width="70" height="70"></td>
        <td><img src="https://user-images.githubusercontent.com/76522430/198021426-75eab3a9-1030-443e-b7e1-bce02b6e16b9.png" width="70" height="70"></td>
        <td><img src="https://user-images.githubusercontent.com/76522430/198018661-052a74da-8d0f-4fc8-b032-2ac647a58307.png" width="70" height="70"></td>
        <td><img src="https://user-images.githubusercontent.com/76522430/198021555-0a36d140-73da-48ea-aa96-171633a9fe4a.png" width="95" height="70"></td>
