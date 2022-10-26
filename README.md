@@ -23,6 +23,7 @@ aws ec2 환경에서 빅데이터 분석 및 데이터 파이프라인 프레임
 <br>
 
 # 2. S/W architecture🖼
+![image](https://user-images.githubusercontent.com/76522430/198029901-2f54ab0a-2024-4410-9015-2bee589b8dfe.png)
 
 
 
