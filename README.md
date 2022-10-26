@@ -39,12 +39,12 @@
        <td><img src="https://prev.github.io/attachs/full-stack-flask/logos/sqlalchemy.png" width="70" height="18"></td>
      </tr>
      <tr>
-       <td align=center>Javascript</td>
-       <td align=center>JSX</td>
-       <td align=center>Python<br>3.8 </td>
-       <td align=center>Flask</td>
-       <td align=center>mySQL</td>
-       <td align=center>SQL<br>Alchemy</td>
+       <td align=center>Hadoop</td>
+       <td align=center>Spark</td>
+       <td align=center>Hive</td>
+       <td align=center>Airflow</td>
+       <td align=center>AWS S3</td>
+       <td align=center>MLflow</td>
      </tr>
    </table>
 
