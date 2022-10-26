@@ -33,7 +33,7 @@
      <tr>
        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="70" height="70"></td>
        <td><img src="https://raw.githubusercontent.com/jsx-ir/logo/master/jsx.png" width="70" height="70"></td>
-       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="70" height="70"></td>
+       <td><img src="https://user-images.githubusercontent.com/76522430/198018661-052a74da-8d0f-4fc8-b032-2ac647a58307.png" width="70" height="70"></td>
        <td><img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FBHr9w%2Fbtq7tsvu04R%2FdmBJ3ANlWgUxKZDM6yxXy0%2Fimg.png" width="95" height="70"></td>
        <td><img src="https://media.vlpt.us/images/sgh002400/post/005be64e-a3e4-4535-9b97-72876a30ef97/MySQL.png" width="90" height="70"></td>
        <td><img src="https://prev.github.io/attachs/full-stack-flask/logos/sqlalchemy.png" width="70" height="18"></td>
@@ -53,7 +53,7 @@
 ### 4. 데이터
   
 1. Used DataSets
-   - [뉴욕택시데이터셋](https://www.kaggle.com/competitions/new-york-city-taxi-fare-prediction/data)<br>
+   - [new-york-city-taxi-fare](https://www.kaggle.com/competitions/new-york-city-taxi-fare-prediction/data)<br>
 
    <br>
 
